@@ -1,0 +1,53 @@
+/*
+Included Fonts
+==============
+font-family: 'Roboto', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Amatic SC', cursive;
+
+*/
+
+body{
+	background-color: #6441A4;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	padding: 10px;
+}
+
+.container {
+  margin-top: 20px;
+	margin-right: auto;
+  margin-left: auto;
+  max-width: 500px;
+}
+
+a{
+	
+}
+
+.online{
+	color:purple;
+}
+
+.offline{
+	color:grey;
+}
+
+h1{
+	font-family: 'Amatic SC', cursive;
+	font-weight: 900;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+sub{
+	font-family: 'Roboto', sans-serif;
+}
+
